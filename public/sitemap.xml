@@ -2,25 +2,25 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>http://byteoff.nl/</loc>
+    <loc>https://byteoff.github.io/</loc>
     <lastmod>2023-12-08T13:52:55+01:00</lastmod>
   </url><url>
-    <loc>http://byteoff.nl/posts/first.html</loc>
+    <loc>https://byteoff.github.io/posts/first.html</loc>
     <lastmod>2023-12-08T13:52:55+01:00</lastmod>
   </url><url>
-    <loc>http://byteoff.nl/posts.html</loc>
+    <loc>https://byteoff.github.io/posts.html</loc>
     <lastmod>2023-12-08T13:52:55+01:00</lastmod>
   </url><url>
-    <loc>http://byteoff.nl/archives/</loc>
+    <loc>https://byteoff.github.io/archives/</loc>
   </url><url>
-    <loc>http://byteoff.nl/categories.html</loc>
+    <loc>https://byteoff.github.io/categories.html</loc>
   </url><url>
-    <loc>http://byteoff.nl/podcast/</loc>
+    <loc>https://byteoff.github.io/podcast/</loc>
   </url><url>
-    <loc>http://byteoff.nl/tags.html</loc>
+    <loc>https://byteoff.github.io/tags.html</loc>
   </url><url>
-    <loc>http://byteoff.nl/v4v/</loc>
+    <loc>https://byteoff.github.io/v4v/</loc>
   </url><url>
-    <loc>http://byteoff.nl/search/</loc>
+    <loc>https://byteoff.github.io/search/</loc>
   </url>
 </urlset>

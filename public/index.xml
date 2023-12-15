@@ -2,27 +2,27 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
   <channel>
     <title>ByteOff</title>
-    <link>http://byteoff.nl/</link>
+    <link>https://byteoff.github.io/</link>
     <description>Recent content on ByteOff</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Fri, 08 Dec 2023 13:52:55 +0100</lastBuildDate><atom:link href="http://byteoff.nl/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Fri, 08 Dec 2023 13:52:55 +0100</lastBuildDate><atom:link href="https://byteoff.github.io/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>First</title>
-      <link>http://byteoff.nl/posts/first.html</link>
+      <link>https://byteoff.github.io/posts/first.html</link>
       <pubDate>Fri, 08 Dec 2023 13:52:55 +0100</pubDate>
       
-      <guid>http://byteoff.nl/posts/first.html</guid>
+      <guid>https://byteoff.github.io/posts/first.html</guid>
       <description> Your browser does not support the audio tag. 0:00:00 / 0:00:00 1x </description>
     </item>
     
     
     <item>
       <title>Podcast</title>
-      <link>http://byteoff.nl/podcast/</link>
+      <link>https://byteoff.github.io/podcast/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>http://byteoff.nl/podcast/</guid>
+      <guid>https://byteoff.github.io/podcast/</guid>
       <description>Luister naar de ByteOff Podcast Je kunt naar de ByteOff podcast luisteren via alle Podcasts 2.0 Apps.
 Ook zijn wij te beluisteren Via Itunes
 Ontdek de Kracht van RSS Wij geloven sterk in de eenvoud van RSS voor iedereen die weg wil van big tech en toch goed geïnformeerd wil blijven. RSS bestaat al jaren en is ook de technologie achter podcasting.
@@ -31,10 +31,10 @@ Luister naar onze podcast doormiddel van de volgende RSS-link:</description>
     
     <item>
       <title>Value 4 Value</title>
-      <link>http://byteoff.nl/v4v/</link>
+      <link>https://byteoff.github.io/v4v/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>http://byteoff.nl/v4v/</guid>
+      <guid>https://byteoff.github.io/v4v/</guid>
       <description>Wat is Value 4 Value? Bij ByteOff hanteren we het Value 4 Value concept. Dit betekent dat we de podcast kosteloos aanbieden en nooit achter een betaalmuur zullen plaatsen. We waarderen het als je Value(waarde) uit onze podcast haalt en deze op een vergelijkbare manier aan ons teruggeeft. Dit kan bijvoorbeeld door middel van een donatie of een interessante e-mail met waardevolle informatie die ons kan ondersteunen bij het produceren van onze uitzendingen.</description>
     </item>
     

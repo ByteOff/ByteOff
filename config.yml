@@ -1,6 +1,6 @@
 relativeURLs: true
 uglyURLs: true
-baseURL: 'http://byteoff.nl/'
+baseURL: 'https://byteoff.github.io/'
 languageCode: en-us
 title: ByteOff
 theme: PaperMod
