@@ -34,10 +34,14 @@ params:
         Content: Welkom bij de ByteOff podcast, waar we ontdekken hoe je online autonoom kunt opereren. We delen inzichten over stappen die je kunt nemen om los te breken van grootschalige gegevensverzameling en hoe je een meer sovereigne online ervaring kunt scheppen. Samen onderzoeken we de evolutie van het internet, de potentiële richting die het dreigt op te gaan, de bijbehorende implicaties, en behandelen we methoden om onszelf hiertegen te beschermen.
 
     socialIcons: # optional
-        - name: rss
-          url: test
         - name: mastodon
           url: "<link2>"
+        - name: github
+          url: https://github.com/ByteOff/byteoff.github.io
+        - name: email
+          url: mailto:contact@byteoff.nl
+        - name: rss
+          url: test
     ShowCodeCopyButtons: true
 
     assets:
