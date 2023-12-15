@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>ByteOff</title>
+    <link>http://127.0.0.1:5500/</link>
+    <description>Recent content on ByteOff</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Fri, 08 Dec 2023 13:52:55 +0100</lastBuildDate><atom:link href="http://127.0.0.1:5500/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>First</title>
+      <link>http://127.0.0.1:5500/posts/first.html</link>
+      <pubDate>Fri, 08 Dec 2023 13:52:55 +0100</pubDate>
+      
+      <guid>http://127.0.0.1:5500/posts/first.html</guid>
+      <description> Your browser does not support the audio tag. 0:00:00 / 0:00:00 1x </description>
+    </item>
+    
+    
+    <item>
+      <title>Podcast</title>
+      <link>http://127.0.0.1:5500/podcast/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://127.0.0.1:5500/podcast/</guid>
+      <description>Luister naar de ByteOff Podcast Je kunt naar de ByteOff podcast luisteren via alle Podcasts 2.0 Apps.
+Ook zijn wij te beluisteren Via Itunes
+Hier heb je direct Onze RSS link Voeg deze link toe aan je favorite Podcast app.
+https://mp3s.nashownotes.com/NA-1613-2023-12-03-Final.mp3 </description>
+    </item>
+    
+    <item>
+      <title>Value4Value</title>
+      <link>http://127.0.0.1:5500/4v4/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://127.0.0.1:5500/4v4/</guid>
+      <description>Wat is Value 4 Value? Bij ByteOff hanteren we het Value 4 Value concept. Dit betekent dat we de podcast kosteloos aanbieden en nooit achter een betaalmuur zullen plaatsen. We waarderen het als je Value(waarde) uit onze podcast haalt en deze op een vergelijkbare manier aan ons teruggeeft. Dit kan bijvoorbeeld door middel van een donatie of een interessante e-mail met waardevolle informatie die ons kan ondersteunen bij het produceren van onze uitzendingen.</description>
+    </item>
+    
+    
+  </channel>
+</rss>

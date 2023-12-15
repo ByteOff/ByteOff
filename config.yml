@@ -1,0 +1,50 @@
+relativeURLs: true
+uglyURLs: true
+baseURL: 'http://127.0.0.1:5500/'
+languageCode: en-us
+title: ByteOff
+theme: PaperMod
+
+menu:
+  main:
+    - identifier: podcast
+      name: Podcast
+      url: /Podcast/
+      weight: 10
+    - identifier: archives
+      name: Archief
+      url: /Archives/
+      weight: 20
+    - identifier: search
+      name: Zoeken
+      url: /Search/
+      weight: 30
+    - identifier: v4v
+      name: v4v
+      url: /V4v/
+      weight: 40
+
+outputs:
+  home:
+    - HTML
+    - RSS
+    - JSON
+
+params:
+    homeInfoParams:
+        Title: De ByteOff Podcast.
+        Content: Welkom bij de ByteOff podcast, waar we ontdekken hoe je online autonoom kunt opereren. We delen inzichten over stappen die je kunt nemen om los te breken van grootschalige gegevensverzameling en hoe je een meer sovereigne online ervaring kunt scheppen. Samen onderzoeken we de evolutie van het internet, de potentiële richting die het dreigt op te gaan, de bijbehorende implicaties, en behandelen we methoden om onszelf hiertegen te beschermen.
+
+    socialIcons: # optional
+        - name: rss
+          url: test
+        - name: mastodon
+          url: "<link2>"
+    ShowCodeCopyButtons: true
+
+    assets:
+      favicon: "/favicons/favicon.ico"
+      favicon16x16: "/favicons/favicon-16x16png"
+      favicon32x32: "/favicons/favicon-21x32.png"
+      apple_touch_icon: "/favicons/apple-touch-icon.png"
+      safari_pinned_tab: "/favicons/safari-pinned-tab.svg"
