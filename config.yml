@@ -18,7 +18,7 @@ menu:
       url: /Search/
       weight: 30
     - identifier: v4v
-      name: v4v
+      name: V4V
       url: /V4v/
       weight: 40
 
