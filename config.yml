@@ -1,5 +1,3 @@
-relativeURLs: true
-uglyURLs: true
 baseURL: 'https://byteoff.github.io/'
 languageCode: en-us
 title: ByteOff
