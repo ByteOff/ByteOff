@@ -2,25 +2,25 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>http://127.0.0.1:5500/</loc>
+    <loc>http://byteoff.nl/</loc>
     <lastmod>2023-12-08T13:52:55+01:00</lastmod>
   </url><url>
-    <loc>http://127.0.0.1:5500/posts/first.html</loc>
+    <loc>http://byteoff.nl/posts/first.html</loc>
     <lastmod>2023-12-08T13:52:55+01:00</lastmod>
   </url><url>
-    <loc>http://127.0.0.1:5500/posts.html</loc>
+    <loc>http://byteoff.nl/posts.html</loc>
     <lastmod>2023-12-08T13:52:55+01:00</lastmod>
   </url><url>
-    <loc>http://127.0.0.1:5500/archives/</loc>
+    <loc>http://byteoff.nl/archives/</loc>
   </url><url>
-    <loc>http://127.0.0.1:5500/categories.html</loc>
+    <loc>http://byteoff.nl/categories.html</loc>
   </url><url>
-    <loc>http://127.0.0.1:5500/podcast/</loc>
+    <loc>http://byteoff.nl/podcast/</loc>
   </url><url>
-    <loc>http://127.0.0.1:5500/tags.html</loc>
+    <loc>http://byteoff.nl/tags.html</loc>
   </url><url>
-    <loc>http://127.0.0.1:5500/4v4/</loc>
+    <loc>http://byteoff.nl/v4v/</loc>
   </url><url>
-    <loc>http://127.0.0.1:5500/search/</loc>
+    <loc>http://byteoff.nl/search/</loc>
   </url>
 </urlset>

@@ -1,6 +1,6 @@
 relativeURLs: true
 uglyURLs: true
-baseURL: 'http://127.0.0.1:5500/'
+baseURL: 'http://byteoff.nl/'
 languageCode: en-us
 title: ByteOff
 theme: PaperMod
