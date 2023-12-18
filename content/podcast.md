@@ -6,14 +6,14 @@ searchHidden: true
 ---
 
 ### Luister naar de ByteOff Podcast
-Je kunt naar de ByteOff podcast luisteren via alle **[Podcasts 2.0 Apps](https://podcastindex.com)**.  
+Je kunt naar de ByteOff podcast luisteren via alle **[Podcasts 2.0 Apps {{< link >}}](https://podcastindex.com)**.  
 Ook zijn wij te beluisteren Via Itunes
 
 ---
 ### Ontdek de Kracht van RSS
 Wij geloven sterk in de eenvoud van RSS voor iedereen die weg wil van big tech en toch goed geïnformeerd wil blijven. RSS bestaat al jaren en is ook de technologie achter podcasting.
 
-Luister naar onze podcast doormiddel van de volgende RSS-link:[{{< rss >}}](https://google.com)
+Luister naar onze podcast doormiddel van de volgende RSS-link:**[{{< rss >}}](https://google.com)**
 ```
 https://mp3s.nashownotes.com/NA-1613-2023-12-03-Final.mp3
 ```
